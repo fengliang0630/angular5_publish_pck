@@ -1,2 +1,4 @@
-# angular5_publish_pck
-angular5 use npm publish pck
+my-publish-demo为发布的项目
+
+my-dmeo为本地项目
+
